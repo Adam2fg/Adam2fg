@@ -30,7 +30,7 @@ I am a Full Stack Developer and Student at #ALXSoftwareEngineeringProgramme <img
 
 - :zap: In my free time, I solve build different kinds of projects and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adam-abah-751914245)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-adam2fg-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adam-abah-751914245)
 
 ---
 

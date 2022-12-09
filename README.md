@@ -64,5 +64,5 @@ I am a Full Stack Developer and Student at #ALXSoftwareEngineeringProgramme <img
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=betascribbles&show_icons=true&theme=jolly&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=adam2fg&show_icons=true&theme=jolly&layout=compact" />
 </a>

@@ -63,6 +63,6 @@ I am a Full Stack Developer and Student at #ALXSoftwareEngineeringProgramme <img
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam2fg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam2fg&langs_count=8&theme=jolly&layout=compact" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=betascribbles&show_icons=true&theme=jolly&layout=compact" />
 </a>

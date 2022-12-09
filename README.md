@@ -26,7 +26,7 @@ I am a Full Stack Developer and Student at #ALXSoftwareEngineeringProgramme <img
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Machine Learning and Data Science.
+- :seedling: Exploring Machine Learning and Data Analysis.
 
 - :zap: In my free time, I solve build different kinds of projects and read tech articles, code with Emacs and Vim (Linux style).
 

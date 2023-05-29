@@ -28,7 +28,7 @@ I am a Full Stack Developer and Student at #ALXSoftwareEngineeringProgramme <img
 
 - :seedling: Exploring Machine Learning and Data Analysis.
 
-- :zap: In my free time, I solve build different kinds of projects and read tech articles, code with Emacs and Vim (Linux style).
+- :zap: In my free time, I build different kinds of projects and read tech articles, brainstorm on how I could make things a bit easier for we humans and practice coding with Emacs and Vim out of boredom 🥱 (Linux style).
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-adam2fg-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adam-abah-751914245)
 

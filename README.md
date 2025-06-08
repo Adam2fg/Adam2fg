@@ -38,7 +38,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,git,html,css,js,ts,tailwind,figma,threejs,nodejs,express,mongodb,mysql,postgres,redux,prisma,postman,firebase,supabase" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,git,html,css,js,ts,tailwind,figma,threejs,nodejs,express,mongodb,mysql,postgres,redux,prisma,postman,firebase,supabase,gcp" />
   </a>
 </p>
 ---

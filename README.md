@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I build different kinds of projects and read tech articles, brainstorm on how I could make things a bit easier for we humans with my skillset and practice coding with Emacs and Vim out of boredom 🥱.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-adam2fg-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adam-abah-751914245)
+- :mailbox:How to reach me:
 
 ---
 
